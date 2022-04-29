@@ -5,9 +5,7 @@
 body {
   font-family: Garamond, serif;
   
-background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,9,121,1) 41%, rgba(0,212,255,1) 100%);
-}
+background: rgba(114,149,204,0.82) none no-repeat scroll 0 0;
 </style>
 </head>
 <body>
