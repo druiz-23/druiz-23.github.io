@@ -4,16 +4,22 @@
 <style>
 body {
   font-family: Garamond, serif;
+  
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,9,121,1) 41%, rgba(0,212,255,1) 100%);
 }
 </style>
 </head>
 <body>
+
 
 h1
 {color:#174b66;
 border: 8px solid #000;
 }
 
-background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,9,121,1) 41%, rgba(0,212,255,1) 100%);
+h2
+{color:#42b3f5;
+border: 8px solid #000;
+}
 
